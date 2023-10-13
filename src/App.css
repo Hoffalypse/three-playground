@@ -1,0 +1,7 @@
+body{
+  background: black;
+}
+#canvas-container {
+  height: 100vh !important;
+
+}
